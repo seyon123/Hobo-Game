@@ -52,3 +52,15 @@ Hamdan:
 - Ensured game validation by making sure it met requirements.
 - Assisted with Product backlog by figuring out Engineering Tasks from User stories.
 - Work on refactoring various functions within the Main and Helper files.
+
+Jawwad: 
+- Created and Formatted Product Backlog
+- Assisted in creating calculations associated with the theoretical analysis’ in the Results report
+- Provided experimental data used in conjunction with theoretical estimations in the Results report
+- Contributed towards documentation of test cases along with structuring and format in the Test Report.
+- Assisted with execution of tests highlighted in Test Report
+- Assisted in generating user stories, creating effort estimates and documenting sprint details  in the Product Backlog
+- Assisted in developing train logic and the random generation of player names
+- Researched formatting of Test Report, Results Report and product backlog
+- Verified and validated whether the final game product met the requirements required by user stories and engineering tasks
+
