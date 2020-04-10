@@ -27,3 +27,13 @@ Jacky:
 - Assisted with the integration of game assets and game mechanics
 - Researched ways to implement the engineering tasks required for the game
 - Formatted and contributed to the content of Product Backlog, Test Report, and Results Report
+
+Hamdan:
+- Contributed to Test Report Document. 
+- Specifically coming up with test cases and executing them while recording findings.
+- Contributed to the Defect report, detailing errors in-game and writing steps to replicate and resolve issues in full detail.
+- Created an effective hobo movement function and contributed to various other functions within the Hobo class.
+- Assisted with the logic of game mechanics in source code. This includes train movement, collisions, and player damage.
+- Ensured game validation by making sure it met requirements.
+- Assisted with Product backlog by figuring out Engineering Tasks from User stories.
+- Work on refactoring various functions within the Main and Helper files.
