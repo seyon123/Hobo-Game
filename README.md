@@ -53,6 +53,16 @@ Hamdan:
 - Assisted with Product backlog by figuring out Engineering Tasks from User stories.
 - Work on refactoring various functions within the Main and Helper files.
 
+Leslie: 
+-Created, researched and formatted the Test Report.
+-Came up with priorities and user stories in the Product Backlog
+-Wrote documentation regarding function descriptions in the test report
+-Unit tested the game on mobile and desktop web versions
+-Assisted with brainstorming and planning of the game's architecture
+-Wrote descriptions and analysis on certain functions in the results report
+-Collected defects and put them into the defect report.
+
+
 Jawwad: 
 - Created and Formatted Product Backlog
 - Assisted in creating calculations associated with the theoretical analysis’ in the Results report
